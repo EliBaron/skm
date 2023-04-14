@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/TimothyYe/skm/master/assets/snapshots/skm.png)
-
+Thank’, I will become a paid item
 [![MIT licensed][5]][6] [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![Build Status][1]][2] [![Go Report Card][7]][8] [![GoCover.io][11]][12] [![GoDoc][9]][10]
 
 [1]: https://travis-ci.org/TimothyYe/skm.svg?branch=master
