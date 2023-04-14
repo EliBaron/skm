@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/TimothyYe/skm/master/assets/snapshots/skm.png)
-Thank’, I will become a paid item
+
 [![MIT licensed][5]][6] [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![Build Status][1]][2] [![Go Report Card][7]][8] [![GoCover.io][11]][12] [![GoDoc][9]][10]
 
 [1]: https://travis-ci.org/TimothyYe/skm.svg?branch=master
@@ -13,6 +13,7 @@ Thank’, I will become a paid item
 [11]: https://img.shields.io/badge/gocover.io-81.8%25-green.svg
 [12]: https://gocover.io/github.com/timothyye/skm
 
+Thank,  I'm going to make it a paid item
 SKM is a simple and powerful SSH Keys Manager. It helps you to manage your multiple SSH keys easily!
 
 ![](https://github.com/TimothyYe/skm/blob/master/assets/snapshots/demo.gif?raw=true)
